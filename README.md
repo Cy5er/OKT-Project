@@ -11,7 +11,7 @@ If you want to run the original OKT code refer to ``` OKT_README ``` to see how 
 Previous attempt at gettings embeddings for FalconCode (not uploaded).
 
 # FalconCode
-The `` notebooks `` folder contains `` make_data.ipynb `` and `` prog2snap.ipynb ``. `` prog2snap.ipynb `` changes the FalconCode dataset to meet the minimum requirements for the Prog2Snap format. `` make_data.ipynb `` changes the FalconCode dataset to match the features of the original OKT dataset (file is still in progress).
+The `` notebooks `` folder contains `` make_data.ipynb `` and `` prog2snap.ipynb ``. `` prog2snap.ipynb `` changes the FalconCode dataset to meet the minimum requirements for the Prog2Snap format. `` make_data.ipynb `` changes the FalconCode dataset to match the features of the original OKT dataset (file is still in progress). Make sure to unzip some of the FalconCode data.
 
 # TODO
 1. Finish `` sen_trans.py `` to create new embeddings for the original OKT dataset.

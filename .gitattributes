@@ -2,3 +2,5 @@
 *.bin filter=lfs diff=lfs merge=lfs -text
 *.csv filter=lfs diff=lfs merge=lfs -text
 model filter=lfs diff=lfs merge=lfs -text
+FalconCodeCSV/falconcode_v1_code_samples.csv filter=lfs diff=lfs merge=lfs -text
+*.zip filter=lfs diff=lfs merge=lfs -text
